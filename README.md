@@ -1,4 +1,3 @@
-# Data-Mining
 ## Project: Sentiment Analysis on Movie Comment
 * Sentiment Analysis on 6,000 movie comments using Convolutional Neural Network 
 * Technologies: Matlab, Matconvnet, GLoVE
